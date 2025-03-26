@@ -1,6 +1,6 @@
 # radiomics-ild-patterns
 
-## 📊 [./binary_classification.py](binary_classification.py) — Bootstrap Classification and SHAP Analysis
+## 📊 [binary_classification.py](./binary_classification.py) — Bootstrap Classification and SHAP Analysis
 
 This script performs a complete classification and interpretability pipeline using a synthetic radiomic dataset. It is designed for testing machine learning workflows based on XGBoost classifiers, including bootstrap performance evaluation and SHAP-based feature importance analysis.
 
