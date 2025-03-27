@@ -1,4 +1,5 @@
-# radiomics-ild-patterns   
+# radiomics-ild-patterns  
+[![DOI](https://zenodo.org/badge/954757367.svg)](https://doi.org/10.5281/zenodo.15095497)
 
 ## 🚀 How to Start   
 To reproduce the analysis and run the code in this repository, follow these steps:
