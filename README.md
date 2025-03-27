@@ -55,7 +55,7 @@ This script generates graphical summaries of the model performance after bootstr
 - The script assumes the presence of a *make_confusion_matrix* function in [utils.py](./utils.py).
 
 ## 🧪 Synthetic Test Data
-This repository includes a synthetic dataset [synthetic_radiomics_dataset.csv](./synthetic_radiomics_dataset.csv) created using the script [synthetic_dataset_creation](./synthetic_dataset_creation), exclusively for testing and demonstration purposes. The dataset was artificially generated and does not contain any real patient data. It simulates a typical radiomics scenario, consisting of:   
+This repository includes a synthetic dataset [synthetic_radiomics_dataset.csv](./synthetic_radiomics_dataset.csv) created using the script [synthetic_dataset_creation.py](./synthetic_dataset_creation.py), exclusively for testing and demonstration purposes. The dataset was artificially generated and does not contain any real patient data. It simulates a typical radiomics scenario, consisting of:   
 - 100 observations representing individual patients
 - 10 numerical features (feature_1 to feature_10) mimicking radiomic variables
 - A binary group label (Group = 0 or 1) representing two hypothetical subpopulations
