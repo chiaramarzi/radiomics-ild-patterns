@@ -110,4 +110,3 @@ dependencies:
     - statsmodels==0.13.2
     - tornado==6.2
     - tqdm==4.64.1
-prefix: /Users/chiaramarzi/opt/anaconda3/envs/radiomics-ild-patterns
