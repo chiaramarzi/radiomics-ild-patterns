@@ -5,8 +5,8 @@ To reproduce the analysis and run the code in this repository, follow these step
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/chiaramarzi/radiomics-ild-patterns
+   cd radiomics-ild-patterns
    ```
 2. **Create the environment**
    ```bash
