@@ -28,8 +28,7 @@ All results are saved in a folder named *results_YYYY-MM-DD_HH-MM-SS*, including
 - Interpolated ROC coordinates (suffix: *_ROC_coords_test.csv*)
 - SHAP summary bar plot (suffix: *-SHAP_summary.png*)
 
-▶️ How to run   
-```python binary_classification.py```
+▶️ How to run: ```python binary_classification.py```
 
 🛠 Notes
 - This script is designed for testing purposes and runs directly on the fully synthetic data [synthetic_radiomics_dataset.csv](./synthetic_radiomics_dataset.csv)
