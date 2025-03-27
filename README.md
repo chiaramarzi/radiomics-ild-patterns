@@ -10,7 +10,7 @@ To reproduce the analysis and run the code in this repository, follow these step
    ```
 2. **Create the environment**
    ```bash
-   conda env create -f environment.yml
+   conda env create -f full_environment.yml
    ```
 3. **Activate the environment**
    ```bash
